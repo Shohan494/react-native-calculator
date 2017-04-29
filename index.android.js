@@ -1,0 +1,1 @@
+import AwesomeProject2 from './src/ReactCalculator';
